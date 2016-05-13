@@ -1,0 +1,24 @@
+地址：http://www.nsicenter.com:9898
+-----------------------------------------------------
+
+#在指定文件夹中追加内容
+/ChatBots/fileappend.do?folder=Lexicon&file=北软假期&format=list&content=要追加的单行文本
+备注：
+content = content.replace("_注释", "#");
+content = content.replace("_分隔", "|");
+
+#检测字符编码是否能正确识别
+/ChatBots/detects_encoding.do?text=你好
+
+#语义识别
+/ChatBots/main.do?content=刘伟松老师的电话是多少
+/ChatBots/main.do?content=刘伟松老师的电话是多少&language=大学教务
+
+#分词工具
+/ChatBots/ansj_seg.do?text=哇哈哈哈
+
+#读取文件夹
+/ChatBots/folderreader.do?folder=Lexicon
+
+#读取文件
+/ChatBots/filereader.do?folder=Lexicon&file=北软假期&format=list

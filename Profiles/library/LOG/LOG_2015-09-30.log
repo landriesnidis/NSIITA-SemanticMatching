@@ -1,0 +1,9 @@
+Date:14:08:21 	 IP:127.0.0.1 	 account=null 	 content=查成绩 	 relevance=null 	 result=无法识别 
+Date:14:08:26 	 IP:127.0.0.1 	 account=null 	 content=查询成绩 	 relevance=null 	 result=无法识别 
+Date:14:08:46 	 IP:127.0.0.1 	 account=null 	 content=查询成绩 	 relevance=null 	 result=同学你好，你的成绩为{result} 
+Date:14:14:35 	 IP:127.0.0.1 	 account=null 	 content=查询成绩 	 relevance=null 	 result=查询成绩同学你好，你的成绩为{result} 
+Date:14:14:42 	 IP:127.0.0.1 	 account=null 	 content=查询成绩 	 relevance=null 	 result=查询成绩 
+Date:14:15:01 	 IP:127.0.0.1 	 account=null 	 content=刘伟松老师的电话是多少 	 relevance=null 	 result=老师电话|北软教师.list 
+Date:14:15:50 	 IP:127.0.0.1 	 account=null 	 content=刘伟松老师的电话是多少 	 relevance=null 	 result=老师电话|北软教师.list刘伟松老师的联系电话是{result} 
+Date:14:16:42 	 IP:127.0.0.1 	 account=null 	 content=刘伟松老师的电话是多少 	 relevance=null 	 result=刘伟松老师的联系电话是{result} 
+Date:14:17:10 	 IP:127.0.0.1 	 account=null 	 content=刘伟松老师的电话是多少 	 relevance=null 	 result=老师电话|北软教师.list 
